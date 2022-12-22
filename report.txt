@@ -1,0 +1,20 @@
+
+	State               2017                2018                
+	PERLIS              130                 190                 
+	KEDAH               648                 931                 
+	PENANG              1073                1794                
+	PERAK               1256                2465                
+	SELANGOR            5222                9484                
+	WPKL                1512                3668                
+	N.SEMBILAN          550                 1239                
+	MELAKA              795                 1377                
+	JOHOR               1555                2032                
+	PAHANG              321                 613                 
+	TERENGGANU          178                 497                 
+	KELANTAN            362                 1411                
+	SABAH               1681                1605                
+	SARAWAK             6513                3761                
+	WP LABUAN           212                 246                 
+
+Total cases for 2017 is 22008
+Total cases for 2018 is 31313

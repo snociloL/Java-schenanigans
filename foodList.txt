@@ -1,0 +1,20 @@
+1;Tom Yunk Campur; 12.9
+2;Siakap 2+1 Rasa; 27.6
+3;Ikan Merapu Stim Aq Yahoo; 30.0
+4;Mee Goreng Ayum; 7.8
+5;Udang/Sotong Goreng Tepunk; 6.0
+6;Telur Goreng; 4.5
+7;Sayur Kang Keng Kong Goreng; 5.0
+8;Lamb Chop; 25.0
+9;Nasi Goreng LGBT; 26.5
+10;Nasi Putih; 1.8
+11;Mango Juice; 2.9
+12;Chocolate Milk; 7.6
+13;Fresh Milk; 3.0
+14;Iced Cincau; 7.8
+15;Carrot Juice; 6.0
+16;Iced Thin Lime ; 4.5
+17;Soy Bean Milk; 5.0
+18;Pen PineApple Juice; 5.0
+19;WaterMELON Juice; 6.5
+20;Sugar cane Juice; 1.8

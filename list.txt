@@ -1,0 +1,5 @@
+01;Alice in Kawaiiland;19;Sad story;70.0;
+02;Pencil;67;To write;1.5;
+03;Eraser;11;To erase your writings ;0.8;
+04;Ruler;2;Measuring;1.8;
+05;ILoveCook;55;Recipe_Book;49.90;====================

@@ -1,0 +1,19 @@
+SALES : 
+
+NAME                CATEGORY            ITEM CODE           SIZE                PRICE               
+Tanduk Rusa         hiasan              TR001               small               20.00               
+Birah               hiasan              B0234               medium              30.00               
+Getah Siam          hiasan              GS009               Big                 350.00              
+Pinang Merah        landskap            PM210               small               25.00               
+Pinang Merah        landskap            PM210               small               30.00               
+Pinang Merah        landskap            PM211               medium              60.00               
+Pagoda              landskap            P001                small               25.00               
+Pagoda              landskap            P002                big                 45.00               
+Bongsai             hiasan              B003                medium              100.00              
+
+Total Hiasan/Small : 20.0
+Total Hiasan/Medium : 130.0
+Total Hiasan/Big : 350.0
+Total Landskap/Small : 80.0
+Total Landskap/Medium : 60.0
+Total Landskap/Big : 45.0

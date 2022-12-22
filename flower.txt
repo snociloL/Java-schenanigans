@@ -1,0 +1,9 @@
+Tanduk Rusa;hiasan;TR001;small;20
+Birah;hiasan;B0234;medium;30
+Getah Siam;hiasan;GS009;Big;350
+Pinang Merah;landskap;PM210;small;25
+Pinang Merah;landskap;PM210;small;30
+Pinang Merah;landskap;PM211;medium;60
+Pagoda;landskap;P001;small;25
+Pagoda;landskap;P002;big;45
+Bongsai;hiasan;B003;medium;100

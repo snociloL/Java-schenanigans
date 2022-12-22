@@ -1,0 +1,10 @@
+11;Mango Juice; 2.9
+12;Chocolate Milk; 7.6
+13;Fresh Milk; 3.0
+14;Iced Cincau; 7.8
+15;Carrot Juice; 6.0
+16;Iced Thin Lime ; 4.5
+17;Soy Bean Milk; 5.0
+18;Pen PineApple Juice; 5.0
+19;WaterMELON Juice; 6.5
+20;Sugar cane Juice; 1.8
