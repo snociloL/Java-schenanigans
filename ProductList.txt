@@ -1,0 +1,6 @@
+Product ID          Product Name        Quantity            Description                   Price               
+1                   Alice in Kawaiiland 19                  Sad story                     70.00               
+2                   Pencil              67                  To write                      1.50                
+3                   Eraser              11                  To erase your writings        0.80                
+4                   Ruler               2                   Measuring                     1.80                
+5                   ILoveCook           55                  Recipe_Book                   49.90               

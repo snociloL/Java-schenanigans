@@ -1,0 +1,5 @@
+UITM ID			Name					Quiz			Project			Lab			 Test 1			 Test 2			Final Exam			Total Mark
+2000197321		Iskandar Alif			3.3				6.8				5.0				3.2				3.5				18.1				39.900000000000006
+2000476121		Haniff Zurda			2.3				5.5				4.5				3.5				4.7				20.8				41.3
+
+****Number of record : 2

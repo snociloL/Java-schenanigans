@@ -1,0 +1,12 @@
+1;1;1;1;200
+
+788;Izzul;12 entah;11;1000
+788;Izzul;12 entah;11;1000
+788;Izzul;12;11;1000
+1;1;1;1;400
+1;1;1;1;400
+2;Aqil;Menara KLCC;2;2;
+123;Cikin busuk;Peerlis;12345687;900;
+23232;Cikin;Perlius;22111;34343;
+1;1;1;12345678;1;
+123;Asyikin;Perlis;12345678;90;

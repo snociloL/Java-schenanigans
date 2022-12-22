@@ -1,0 +1,13 @@
+UITM ID			Name					Quiz			Project			Lab			 Test 1			 Test 2			Final Exam			Total Mark
+2000474884		Fatimah Ahmad			7.0				8.5				9.1				6.2				6.6				31.0				68.4
+2000541715		Hassan Zaim  			5.2				8.5				8.8				5.4				6.2				28.0				62.1
+2000197161		Siti Nurhaliza			6.6				9.0				9.5				5.3				6.7				32.0				69.1
+2000541555		Ally Bella			7.0				8.5				9.2				6.2				6.3				33.5				70.69999999999999
+2000541468		Sulaiman Daud			6.4				9.4				9.5				6.8				7.1				30.8				70.0
+2000542066		Aziz Shamsudin			5.2				7.5				8.2				5.1				5.8				28.5				60.3
+2000541562		Mary Jane			7.5				9.2				8.6				6.3				5.8				29.6				67.0
+2000543359		Juhara Yacob			5.2				6.8				8.2				5.7				4.9				24.2				55.0
+2000541603		Ahmadi Mahmud			6.4				8.5				8.8				6.2				5.9				28.7				64.5
+2000197179		Farah Allia			5.7				8.6				7.5				4.8				5.3				27.5				59.400000000000006
+
+****Number of record : 10
