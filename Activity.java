@@ -16,18 +16,26 @@ public class Activity {
     public void setbudget(double b) {budget = b;}
     public void setDate(String d) {date = d;}
 
+    public String getActivityName() {return activityName;}
+    public String getDate() {return date;}
+    public double getBudget() {return budget;}
+    public char getOrganizer() {return organizer;}
+
+
+
     public String toString() {
-        return "bruh"+activityName+organizer+budget+date;
+        return "\nActivity Name : "+getActivityName()+"\nOrganizer : "+getOrganizer()+"\nTotal Budget : RM"+getBudget()+"\nDate : "+getDate();
     }
 }
 
-class RoomActivity {
+class RoomActivity extends Activity{
     private String roomType;
     private int numOfParticipant;
     Activity aktiviti;
 
 
-    public RoomActivity(String r, int n) {
+    public RoomActivity(String a, char o, double b, String d, String r, int n) {
+        super(a,o,b,d);
         roomType = r;
         numOfParticipant = n;
     }
@@ -36,7 +44,7 @@ class RoomActivity {
     public void setNumOfParticipant(int n) { numOfParticipant = n;}
 
     public String getRoomtype() {return roomType;}
-    public int getParticipant() {return numOfParticipant;}
+    public int getParticipants() {return numOfParticipant;}
     
     
     public double roomCharges(int num, char org) { //Fixed rate for Government Activities is RM1500.00. Private and University organisers will be charged RM25.00 and RM10.00 for each participant respectively.
@@ -65,5 +73,11 @@ class RoomActivity {
                 total =0;
             }
         }return total;
+    }
+    public String toString() {
+        return super.toString();
+    }
+    public String printer() {
+        return "\nRoom Type : "+getRoomtype()+"\nNumber of Participants : "+getParticipants();
     }
 }
