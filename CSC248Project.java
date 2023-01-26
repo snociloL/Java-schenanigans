@@ -5,20 +5,28 @@ import java.util.StringTokenizer;
 import java.io.*;
 import java.util.*;
 
-class Order2 {
+class Menu2 {
+    int table;
+    int orderNo;
+    public Menu2 (int t, int o){
+        table = t;
+        orderNo = o;
+    }
+    public void record() {
+        System.out.println(" ");
+    }
+}
+class Order2 extends Menu2 {
     LocalDateTime now = LocalDateTime.now();  
     DateTimeFormatter format = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");  
-    int table;
-    String name;
     int quantity;
-    int orderNo;
+    String name;
     double price;
     int orderID;
 
     public Order2 (int t, int q, int o){
-        table = t;
+        super(t,o);
         quantity = q;
-        orderNo = o;
     }
 
     public int getTable() {return table;}
