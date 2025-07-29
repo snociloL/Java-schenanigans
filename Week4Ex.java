@@ -57,7 +57,7 @@ public class Week4Ex {
             String nameSearch = sc.nextLine();
         //index = Collections.binarySearch(nameLists, nameSearch);
         for(int i=0;i<nameLists.size();i++) {
-            if(nameLists.get(i).getName()==nameSearch)
+            if(nameLists.get(i).getName().equalsIgnoreCase(nameSearch))
                 index = i;
         }
         System.out.println("The searched name "+nameSearch+" is found at index "+index);
